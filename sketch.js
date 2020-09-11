@@ -111,7 +111,7 @@ function setup() {
 }
 
 function draw() {
-  trex.debug = true;
+  //trex.debug = true;
   trex.setCollider("circle",0,0,35);
   background(255);
 
